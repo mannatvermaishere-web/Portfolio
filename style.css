@@ -10,8 +10,8 @@
 }
 
 body {
-    background-color: #f5efe6;
-    color: #49382e;
+    background-color: #F8E9E7;
+    color: #554044;
 }
 
 
@@ -22,14 +22,14 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 20px 8%;
-    background-color: #6b4937;
+    background-color: #986B70;
     position: sticky;
     top: 0;
     z-index: 100;
 }
 
 .logo {
-    color: #fff8ed;
+    color: #FFF9F5;
     font-size: 25px;
 }
 
@@ -40,14 +40,14 @@ body {
 }
 
 .navbar ul li a {
-    color: #fff8ed;
+    color: #FFF9F5;
     text-decoration: none;
     font-size: 14px;
     transition: 0.3s;
 }
 
 .navbar ul li a:hover {
-    color: #d9bfa5;
+    color: #F1CECA;
 }
 
 
@@ -68,19 +68,19 @@ body {
 
 .home-content h3 {
     font-size: 24px;
-    color: #936c50;
+    color: #B77F83;
 }
 
 .home-content h1 {
     font-size: 50px;
-    color: #654631;
+    color: #80545B;
     margin: 10px 0;
 }
 
 .home-content h2 {
     font-size: 25px;
     margin-bottom: 20px;
-    color: #805b43;
+    color: #986B70;
 }
 
 .home-content p {
@@ -94,8 +94,8 @@ body {
     height: 300px;
     object-fit: cover;
     border-radius: 50%;
-    border: 8px solid #d8c2a9;
-    box-shadow: 0 5px 20px #c3aa91;
+    border: 8px solid #E8C7C2;
+    box-shadow: 0 5px 20px #DCC0BD;
 }
 
 
@@ -104,7 +104,7 @@ body {
 .btn {
     display: inline-block;
     padding: 12px 25px;
-    background-color: #79563e;
+    background-color: #986B70;
     color: white;
     text-decoration: none;
     border-radius: 25px;
@@ -112,7 +112,7 @@ body {
 }
 
 .btn:hover {
-    background-color: #503725;
+    background-color: #70484F;
     transform: translateY(-3px);
 }
 
@@ -127,11 +127,11 @@ body {
 .heading {
     font-size: 35px;
     margin-bottom: 40px;
-    color: #654631;
+    color: #80545B;
 }
 
 .heading span {
-    color: #a77d59;
+    color: #B77F83;
 }
 
 
@@ -141,9 +141,9 @@ body {
     max-width: 850px;
     margin: auto;
     padding: 35px;
-    background-color: #fffaf3;
+    background-color: #FFF9F5;
     border-radius: 15px;
-    box-shadow: 0 4px 15px #dfd0bd;
+    box-shadow: 0 4px 15px #E6D0CD;
 }
 
 .about-content p {
@@ -161,16 +161,16 @@ body {
 }
 
 .education-box {
-    background-color: #fffaf3;
+    background-color: #FFF9F5;
     padding: 30px;
     border-radius: 15px;
-    border-left: 5px solid #987052;
-    box-shadow: 0 4px 15px #dfd0bd;
+    border-left: 5px solid #D5A6A0;
+    box-shadow: 0 4px 15px #E6D0CD;
     text-align: left;
 }
 
 .education-box h3 {
-    color: #79563e;
+    color: #986B70;
     margin-bottom: 15px;
 }
 
@@ -189,20 +189,20 @@ body {
 }
 
 .skill-box {
-    background-color: #fffaf3;
+    background-color: #FFF9F5;
     padding: 30px 20px;
     border-radius: 15px;
-    box-shadow: 0 4px 15px #dfd0bd;
+    box-shadow: 0 4px 15px #E6D0CD;
     transition: 0.3s;
 }
 
 .skill-box:hover {
     transform: translateY(-8px);
-    background-color: #eadbc9;
+    background-color: #F1DAD7;
 }
 
 .skill-box h3 {
-    color: #79563e;
+    color: #986B70;
     margin-bottom: 15px;
     font-size: 22px;
 }
@@ -221,10 +221,10 @@ body {
 }
 
 .project-box {
-    background-color: #fffaf3;
+    background-color: #FFF9F5;
     padding: 30px 20px;
     border-radius: 15px;
-    box-shadow: 0 4px 15px #dfd0bd;
+    box-shadow: 0 4px 15px #E6D0CD;
     transition: 0.3s;
 }
 
@@ -233,7 +233,7 @@ body {
 }
 
 .project-box h3 {
-    color: #79563e;
+    color: #986B70;
     margin-bottom: 15px;
 }
 
@@ -251,14 +251,14 @@ body {
 }
 
 .achievement-box {
-    background-color: #fffaf3;
+    background-color: #FFF9F5;
     padding: 30px 20px;
     border-radius: 15px;
-    box-shadow: 0 4px 15px #dfd0bd;
+    box-shadow: 0 4px 15px #E6D0CD;
 }
 
 .achievement-box h3 {
-    color: #79563e;
+    color: #986B70;
     margin-bottom: 15px;
 }
 
@@ -272,10 +272,10 @@ body {
 .contact-container {
     max-width: 600px;
     margin: auto;
-    background-color: #fffaf3;
+    background-color: #FFF9F5;
     padding: 35px;
     border-radius: 15px;
-    box-shadow: 0 4px 15px #dfd0bd;
+    box-shadow: 0 4px 15px #E6D0CD;
 }
 
 .contact-container p {
@@ -287,8 +287,8 @@ body {
 /* Footer */
 
 footer {
-    background-color: #6b4937;
-    color: #fff8ed;
+    background-color: #986B70;
+    color: #FFF9F5;
     text-align: center;
     padding: 25px;
     line-height: 2;
