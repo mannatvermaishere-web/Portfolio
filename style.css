@@ -10,8 +10,8 @@
 }
 
 body {
-    background-color: #f8f5ff;
-    color: #333;
+    background-color: #f5efe6;
+    color: #49382e;
 }
 
 
@@ -22,14 +22,14 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 20px 8%;
-    background-color: #5e4380;
+    background-color: #6b4937;
     position: sticky;
     top: 0;
     z-index: 100;
 }
 
 .logo {
-    color: white;
+    color: #fff8ed;
     font-size: 25px;
 }
 
@@ -40,14 +40,14 @@ body {
 }
 
 .navbar ul li a {
-    color: white;
+    color: #fff8ed;
     text-decoration: none;
     font-size: 14px;
     transition: 0.3s;
 }
 
 .navbar ul li a:hover {
-    color: #e2c9ff;
+    color: #d9bfa5;
 }
 
 
@@ -68,18 +68,19 @@ body {
 
 .home-content h3 {
     font-size: 24px;
-    color: #76549a;
+    color: #936c50;
 }
 
 .home-content h1 {
     font-size: 50px;
-    color: #5e4380;
+    color: #654631;
     margin: 10px 0;
 }
 
 .home-content h2 {
     font-size: 25px;
     margin-bottom: 20px;
+    color: #805b43;
 }
 
 .home-content p {
@@ -93,8 +94,8 @@ body {
     height: 300px;
     object-fit: cover;
     border-radius: 50%;
-    border: 8px solid #d8c5ef;
-    box-shadow: 0 5px 20px #b8a1d3;
+    border: 8px solid #d8c2a9;
+    box-shadow: 0 5px 20px #c3aa91;
 }
 
 
@@ -103,7 +104,7 @@ body {
 .btn {
     display: inline-block;
     padding: 12px 25px;
-    background-color: #76549a;
+    background-color: #79563e;
     color: white;
     text-decoration: none;
     border-radius: 25px;
@@ -111,7 +112,7 @@ body {
 }
 
 .btn:hover {
-    background-color: #4d326e;
+    background-color: #503725;
     transform: translateY(-3px);
 }
 
@@ -126,11 +127,11 @@ body {
 .heading {
     font-size: 35px;
     margin-bottom: 40px;
-    color: #5e4380;
+    color: #654631;
 }
 
 .heading span {
-    color: #a27acb;
+    color: #a77d59;
 }
 
 
@@ -140,9 +141,9 @@ body {
     max-width: 850px;
     margin: auto;
     padding: 35px;
-    background-color: white;
+    background-color: #fffaf3;
     border-radius: 15px;
-    box-shadow: 0 4px 15px #ddd1eb;
+    box-shadow: 0 4px 15px #dfd0bd;
 }
 
 .about-content p {
@@ -160,16 +161,16 @@ body {
 }
 
 .education-box {
-    background-color: white;
+    background-color: #fffaf3;
     padding: 30px;
     border-radius: 15px;
-    border-left: 5px solid #8b68ad;
-    box-shadow: 0 4px 15px #ddd1eb;
+    border-left: 5px solid #987052;
+    box-shadow: 0 4px 15px #dfd0bd;
     text-align: left;
 }
 
 .education-box h3 {
-    color: #76549a;
+    color: #79563e;
     margin-bottom: 15px;
 }
 
@@ -188,20 +189,20 @@ body {
 }
 
 .skill-box {
-    background-color: white;
+    background-color: #fffaf3;
     padding: 30px 20px;
     border-radius: 15px;
-    box-shadow: 0 4px 15px #ddd1eb;
+    box-shadow: 0 4px 15px #dfd0bd;
     transition: 0.3s;
 }
 
 .skill-box:hover {
     transform: translateY(-8px);
-    background-color: #eee5fa;
+    background-color: #eadbc9;
 }
 
 .skill-box h3 {
-    color: #76549a;
+    color: #79563e;
     margin-bottom: 15px;
     font-size: 22px;
 }
@@ -220,10 +221,10 @@ body {
 }
 
 .project-box {
-    background-color: white;
+    background-color: #fffaf3;
     padding: 30px 20px;
     border-radius: 15px;
-    box-shadow: 0 4px 15px #ddd1eb;
+    box-shadow: 0 4px 15px #dfd0bd;
     transition: 0.3s;
 }
 
@@ -232,7 +233,7 @@ body {
 }
 
 .project-box h3 {
-    color: #76549a;
+    color: #79563e;
     margin-bottom: 15px;
 }
 
@@ -250,14 +251,14 @@ body {
 }
 
 .achievement-box {
-    background-color: white;
+    background-color: #fffaf3;
     padding: 30px 20px;
     border-radius: 15px;
-    box-shadow: 0 4px 15px #ddd1eb;
+    box-shadow: 0 4px 15px #dfd0bd;
 }
 
 .achievement-box h3 {
-    color: #76549a;
+    color: #79563e;
     margin-bottom: 15px;
 }
 
@@ -271,10 +272,10 @@ body {
 .contact-container {
     max-width: 600px;
     margin: auto;
-    background-color: white;
+    background-color: #fffaf3;
     padding: 35px;
     border-radius: 15px;
-    box-shadow: 0 4px 15px #ddd1eb;
+    box-shadow: 0 4px 15px #dfd0bd;
 }
 
 .contact-container p {
@@ -286,8 +287,8 @@ body {
 /* Footer */
 
 footer {
-    background-color: #5e4380;
-    color: white;
+    background-color: #6b4937;
+    color: #fff8ed;
     text-align: center;
     padding: 25px;
     line-height: 2;
